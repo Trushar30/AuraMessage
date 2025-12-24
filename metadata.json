@@ -1,0 +1,8 @@
+{
+  "name": "Aura Messenger",
+  "description": "A privacy-first, username-based communication platform with AI-powered impersonation detection and friend-request-only messaging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
